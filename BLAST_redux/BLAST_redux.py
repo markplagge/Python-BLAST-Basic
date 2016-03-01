@@ -1,0 +1,15 @@
+
+query = "AGCTTTTTGGTTAATTCCCACTT"
+db = "CATAAGCTTCTGACTCTTACCTCCCTCTCTCCTACTCCTGCTCGCATCTGCTATAGTGGAGGC"
+
+
+match = 1
+mismatch = -1
+gap = -1
+l = 5 
+K = 10
+T = 2
+V = 5
+M = 4
+E = 2
+G = 20
